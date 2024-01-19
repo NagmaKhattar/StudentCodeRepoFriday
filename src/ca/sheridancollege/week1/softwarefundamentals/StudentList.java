@@ -10,6 +10,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * with 1 student from the current section and then iterates over the
  * list to print each name.
  * @author dancye, Jan 2019
+ * @modified Jan 19,2024
  */
 public class StudentList {
     
